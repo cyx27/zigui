@@ -55,8 +55,7 @@
     },
     head(){
       return {
-        title: "数字秭归"
-      }
+        title: "数字秭归"      }
     }
   }
 </script>
