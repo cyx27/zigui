@@ -62,6 +62,8 @@ export default {
     }
   },
   generate: {
-    dir: 'docs'
-  }
+    dir: 'docs',
+    subFolders: false
+  },
+  target: 'static'
 }
