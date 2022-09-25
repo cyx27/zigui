@@ -63,7 +63,7 @@ export default {
   },
   generate: {
     dir: 'docs',
-    // subFolders: false
+    subFolders: false
   },
   target: 'static'
 }
