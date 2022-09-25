@@ -36,6 +36,7 @@
   import BlogThreeArea from "../components/BlogThreeArea";
   import BrandThreeArea from "../components/BrandThreeArea";
   export default {
+    name: "index",
     components: {
       BrandThreeArea,
       BlogThreeArea,

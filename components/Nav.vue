@@ -50,12 +50,10 @@
                       <a class="active" href="#">Home</a>
                       <ul class="sub-menu">
                         <li><nuxt-link to="/">Home 1</nuxt-link></li>
-                        <li><nuxt-link to="/index">Home 3</nuxt-link></li>
                         <li>
                           <a href="#">Header Versions</a>
                           <ul class="sub-menu">
                             <li><nuxt-link to="/">Header Style 1</nuxt-link></li>
-                            <li><nuxt-link to="/index">Header Style 3</nuxt-link></li>
                           </ul>
                         </li>
                       </ul>
@@ -114,14 +112,10 @@
                     <a href="#">Home</a>
                     <ul class="sub-menu">
                       <li><nuxt-link to="/">Home 1</nuxt-link></li>
-                      <li><nuxt-link to="/index-2">Home 2</nuxt-link></li>
-                      <li><nuxt-link to="/index">Home 3</nuxt-link></li>
                       <li class="menu-item-has-children"><span class="menu-expand"><i class="fa fa-angle-down"></i></span>
                         <a href="#">Header Versions</a>
                         <ul class="sub-menu">
                           <li><nuxt-link to="/">Header Style 1r</nuxt-link></li>
-                          <li><nuxt-link to="/index-2">Header Style 2</nuxt-link></li>
-                          <li><nuxt-link to="/index">Header Style 3</nuxt-link></li>
                         </ul>
                       </li>
                     </ul>
